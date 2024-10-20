@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 hi i am malaiarasan
 how are you 
 i am fine
  
+=======
+hi i am malaiarasan 
+>>>>>>> 09cccf27bacef5b951fe331e8e4a1f8249c014ff
 
